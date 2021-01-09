@@ -22,10 +22,16 @@ Saturday january 9th, 2021
 * [FlutterFire](https://firebase.flutter.dev/)
 * [Parse](https://parseplatform.org/)
 
-### Design Tools
+### Design Tools & Resources
 * [Figma](https://www.figma.com/)
 * [Adobe XD](https://www.adobe.com/products/xd.html)
+* [Widget Gallery](https://gallery.flutter.dev/#/)
+* [Widget Catalogue](https://flutter.dev/docs/development/ui/widgets)
+* [Widget of the Week](https://youtu.be/b_sQ9bMltGU)
 
 ### Useful Shorcuts
 * ``` stl ```
 * ``` stfl ```
+
+### Useful Commands
+* ``` command + shift + p``` to launch emulator
